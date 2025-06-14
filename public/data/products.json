@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Kopi Susu Gula Aren",
+    "description": "Perpaduan kopi robusta dengan susu segar dan gula aren asli.",
+    "price": 18000
+  },
+  {
+    "id": 2,
+    "name": "Kopi Hitam Nusantara",
+    "description": "Kopi hitam tanpa gula dari biji kopi terbaik seluruh Indonesia.",
+    "price": 15000
+  },
+  {
+    "id": 3,
+    "name": "Es Kopi Pandan",
+    "description": "Rasa unik kopi dicampur pandan manis menyegarkan.",
+    "price": 20000
+  },
+  {
+    "id": 4,
+    "name": "Kopi Latte Keangan",
+    "description": "Latte creamy yang lembut, cocok untuk kamu yang manis.",
+    "price": 22000
+  }
+]
