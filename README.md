@@ -91,4 +91,4 @@ Kopi Keangan is a web-based e-commerce app that allows users to:
 
 ---
 
-🧋 Built with ❤️ by Gen Z developer for all coffee lovers.
+🧋 Built with izzi van satoru
